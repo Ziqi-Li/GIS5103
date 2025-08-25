@@ -4,6 +4,8 @@ Florida State University
 
 Class meets: 9:45am - 12:15pm Thur @ BEL 320A
 
+This GitHub site is primarily used to host the data and code for this class.
+
 ## About me
 
 Dr. Ziqi Li\
