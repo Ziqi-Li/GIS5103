@@ -11,8 +11,6 @@ Assistant Professor \
 Department of Geography \
 Office: Bellamy 314 \
 Email: ziqi.li@fsu.edu \
-Website: https://sites.google.com/view/ziqi-li/home \
-Office Hours: 2:00PM – 3:00PM, every Wednesday in-person, or by appointment.
 
 ## Overview
 This course introduces Python programming for beginners. Students will learn the basics of Python and use open-source packages for spatial data processing, analysis, and visualization.
