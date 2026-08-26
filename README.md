@@ -1,4 +1,4 @@
-# GIS5103 GIS Programming Fall 2025
+# GIS5103 GIS Programming Fall 2026
 
 Florida State University
 
